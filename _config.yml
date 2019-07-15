@@ -23,7 +23,7 @@ description: A virtual proof that name is awesome!
 
 # List of links in the navigation bar
 navbar-links:
-  关于我: "/aboutme.md"
+  关于我: "aboutme"
   资源:
     - CSDN: "https://blog.csdn.net/zhwyj1019/"
     - 掘金: "https://juejin.im/user/5d09a252518825166f36c05f"
@@ -54,9 +54,9 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "/img/bgimage.png"
-# footer-img: "/img/bgimage.png"
-# page-img: "/img/bgimage.png"
+navbar-img: "/img/bgimage.png"
+footer-img: "/img/bgimage.png"
+page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
 
@@ -71,7 +71,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "zhaihw0417@163.com"
+  email: "innerpeace.zhai@gmail.com"
 #  facebook: daattali
   github: "innerpeacez"
 #  twitter: daattali
