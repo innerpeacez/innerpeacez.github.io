@@ -1,7 +1,6 @@
 ---
 layout: post
-title: linux 定时任务 crontab
-image: /img/hello_world.jpeg
+title: kuberbetes Pod 健康检查
 ---
 
 <center>
