@@ -27,7 +27,13 @@ navbar-links:
   第三方blog:
     - CSDN: "https://blog.csdn.net/zhwyj1019/"
     - 掘金: "https://juejin.im/user/5d09a252518825166f36c05f"
-    - segmentfault: "https://segmentfault.com/u/innerpeacez"
+    - 思否: "https://segmentfault.com/u/innerpeacez"
+    - 简书: "https://www.jianshu.com/u/41f85a42ef6b"
+    - 开源中国: "https://my.oschina.net/u/3655071"
+    - 博客园: "https://www.cnblogs.com/innerpeacez/"
+    - 知乎: "https://www.zhihu.com/people/innerpeacez/activities"
+    - 51CTO: "https://blog.51cto.com/13576852"
+    - Spring4All: "http://www.spring4all.com/"
 #  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
