@@ -23,6 +23,7 @@ description: Hi,guys!
 
 # List of links in the navigation bar
 navbar-links:
+  HOME: "https://ipzgo.top"
   关于我: "aboutme"
   第三方blog:
     - CSDN: "https://blog.csdn.net/zhwyj1019/"
