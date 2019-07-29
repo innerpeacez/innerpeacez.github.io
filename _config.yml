@@ -132,7 +132,7 @@ url-pretty: "ipzgo.top"  # eg. "deanattali.com/beautiful-jekyll"
 # disqus: ""
 
 # If you want to use JustComments fill with the API Key
-just-comments: "70cb9dcc-80b0-423d-bbc6-1d384c2f0d49"
+#just-comments: "70cb9dcc-80b0-423d-bbc6-1d384c2f0d49"
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
